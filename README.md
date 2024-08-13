@@ -47,7 +47,7 @@ Trifecta is a cutting-edge mobile application built with **Flutter** for the fro
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/trifecta.git
+    git clone https://github.com/aceassured/Trifecta-Frontend.git
     cd trifecta
     ```
 
