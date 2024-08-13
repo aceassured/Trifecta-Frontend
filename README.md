@@ -69,4 +69,10 @@ Trifecta is a cutting-edge mobile application built with **Flutter** for the fro
    
 <hr>
 
+## ⚒️ Architecture
+![diagram-export-8-13-2024-2_39_23-PM](https://github.com/user-attachments/assets/fd509aca-a064-465f-b110-9183b3a0d986)
+
+
+
+<hr>
 _This application is currently in development phase._
