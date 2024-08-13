@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996015534056",
+    "project_id": "trifecta-dev-d83de",
+    "storage_bucket": "trifecta-dev-d83de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996015534056:android:2eecdd68657b5b5e9efe5d",
+        "android_client_info": {
+          "package_name": "com.example.trifecta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwNVZgV273EQM-uO6Eg3F65ea1F7_9W8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
